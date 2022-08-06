@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adanvmartinez
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently working on learning machine learning techniques and neural network models
-- 💞️ I’m looking to collaborate on software development
+- 💞️ I’m looking to collaborate on full-stack software development and cloud architecture development
 - 📫 How to reach me: adanvmartinez@gmail.com
 
 <!---
