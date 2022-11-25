@@ -1,7 +1,7 @@
 <h2 align="center"> Hi <img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/Hi.gif" width="30">, I’m Adan</h2>  
 
 ### Welcome to my profile  
-#### A passionate DevOps/FullStack engineer currently focusing on cloud services and monitoring. 
+#### A passionate DevOps/FullStack engineer in AR
 
 I'm a passionate software engineer who loves to automate processes. As a lover of technology, I love to learn new tools and finding solutions to complex problems and facilitate handling of business. Skilled at devops, containerization, and cloud. Always eager to learn.  
 
