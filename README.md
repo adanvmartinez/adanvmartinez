@@ -22,7 +22,7 @@ I'm a passionate software engineer who loves to automate processes. As a lover o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adanvmartinez&langs_count=10&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-### Random Computer Joke
+### 😆 Random Computer Joke
  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ### 🛠️ Languages and Tools:
