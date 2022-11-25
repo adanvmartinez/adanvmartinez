@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on full-stack software development and cloud architecture development
 - 📫 How to reach me: adanvmartinez@gmail.com
 
+### Random Computer Joke
+ ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 ### Languages and Tools:
 <a href="https://aws.amazon.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/amazonwebservices-original-wordmark.svg" width="70" alt="AWS"></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/bash.svg" width="70" alt="Bash"></a>
@@ -23,8 +26,6 @@
 <a href="https://reactjs.org/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/react.png" width="70" alt="React"></a> 
 <a href="https://dotnet.microsoft.com/en-us/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/.net.png" width="70" alt=".NET"></a> 
 
-### Random Computer Joke
- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
  
  Connect with me:  
  <a href="https://www.linkedin.com/in/adanvmartinez"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/linked-in-alt.svg" width="70" alt="LinkedIn"></a> 
