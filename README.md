@@ -27,7 +27,7 @@
 <a href="https://dotnet.microsoft.com/en-us/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/.net.png" width="70" alt=".NET"></a> 
 
  
- Connect with me:  
+ ## Connect with me:  
  <a href="https://www.linkedin.com/in/adanvmartinez"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/linked-in-alt.svg" width="70" alt="LinkedIn"></a> 
 <!---
 adanvmartinez/adanvmartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
