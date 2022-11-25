@@ -14,10 +14,14 @@
 <a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/linux-original.svg" width="70" alt="Linux"></a> 
 <a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/mongodb-original-wordmark.svg" width="70" alt="MongoDB"></a> 
 <a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/mysql-original-wordmark.svg" width="70" alt="MySQL"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/IBMDBII.png" width="70" alt="IBMDBII"></a> 
 <a href="https://www.nginx.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/nginx.svg" width="70" alt="NGINX"></a> 
 <a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/postman.svg" width="70" alt="Postman"></a> 
-<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/python-original.svg" width="70" alt="Python"></a> 
-git jenkins splunk kubernetes linux mongodb mysql nginx postman python  
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/python-original.svg" width="70" alt="Python"></a>  
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/javan.png" width="70" alt="Java"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/javascript.png" width="70" alt="JavaScript"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/react.png" width="70" alt="React"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/.net.png" width="70" alt=".NET"></a> 
 
 ### Random Computer Joke
  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
