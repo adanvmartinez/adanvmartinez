@@ -6,8 +6,8 @@
 
 ### Languages and Tools:
 <a href="https://aws.amazon.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/amazonwebservices-original-wordmark.svg" width="100" alt="AWS"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/docker.svg" width="100" alt="Docker"></a>
-<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/docker.svg" width="100" alt="Docker"></a> docker flask gcp git grafana heroku jenkins kafka kibana kubernetes linux mongodb mysql nginx postman python pytorch rabbitMQ redis selenium solr vagrant
+<a href="https://www.gnu.org/software/bash/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/bash.svg" width="100" alt="Docker"></a>
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/docker.svg" width="100" alt="Docker"></a> docker flask gcp git grafana heroku jenkins kafka kibana kubernetes linux mongodb mysql nginx postman python pytorch rabbitMQ redis selenium solr vagrant  
 
 ### Random Computer Joke
  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
