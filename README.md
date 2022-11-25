@@ -1,4 +1,15 @@
 <h2 align="center"> Hi <img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/Hi.gif" width="30">, I’m Adan</h2>  
+
+### Welcome to my profile  
+#### A passionate DevOps/FullStack engineer currently focusing on cloud services and monitoring.  
+
+### 🔥 My Stats:  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adanvmartinez&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+
+### My Interests  
 - 👀 I’m interested in Computer Science  
 - 🌱 I’m currently working on learning machine learning techniques and neural network models  
 - 💞️ I’m looking to collaborate on full-stack software development and cloud architecture development  
@@ -7,7 +18,7 @@
 ### Random Computer Joke
  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 <a href="https://aws.amazon.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/amazonwebservices-original-wordmark.svg" width="70" alt="AWS"></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/bash.svg" width="70" alt="Bash"></a>
 <a href="https://git-scm.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/git.svg" width="70" alt="Git"></a> 
