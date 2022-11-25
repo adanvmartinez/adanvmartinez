@@ -25,6 +25,10 @@
 
 ### Random Computer Joke
  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+ 
+ Connect with me:  
+ <a href="www.linkedin.com/in/adanvmartinez
+"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/linked-in-alt.svg" width="70" alt=".NET"></a> 
 <!---
 adanvmartinez/adanvmartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
