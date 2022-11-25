@@ -5,7 +5,7 @@
 - 📫 How to reach me: adanvmartinez@gmail.com
 
 ### Languages and Tools:
-![aws](http://github.com/adanvmartinez/aws.jpg)aws azure bash docker flask gcp git grafana heroku jenkins kafka kibana kubernetes linux mongodb mysql nginx postman python pytorch rabbitMQ redis selenium solr vagrant
+![aws](https://github.com/adanvmartinez/Profile-Assets/blob/main/amazonwebservices-original-wordmark.svg) ![bash](https://github.com/adanvmartinez/Profile-Assets/blob/main/bash.svg)![docker](https://github.com/adanvmartinez/Profile-Assets/blob/main/docker.svg) docker flask gcp git grafana heroku jenkins kafka kibana kubernetes linux mongodb mysql nginx postman python pytorch rabbitMQ redis selenium solr vagrant
 
 ### Random Computer Joke
  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
