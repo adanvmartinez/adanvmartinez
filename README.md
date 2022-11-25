@@ -4,6 +4,8 @@
 #### A passionate DevOps/FullStack engineer currently focusing on cloud services and monitoring.  
 
 ### 🔥 My Stats:  
+![](https://komarev.com/ghpvc/?username=adanvmartinez&label=PROFILE+VIEWS&color=brightgreen)  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adanvmartinez&theme=radical&hide_border=true&background=282828)](https://git.io/streak-stats)  
 
 #### Without MD and HCL  
