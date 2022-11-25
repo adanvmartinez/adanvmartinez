@@ -1,4 +1,4 @@
-<h2 align="center"> # Hi <img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/Hi.gif" width="30">, I’m Adan</h2>
+<h2 align="center"> Hi <img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/Hi.gif" width="30">, I’m Adan</h2>
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently working on learning machine learning techniques and neural network models
 - 💞️ I’m looking to collaborate on full-stack software development and cloud architecture development
