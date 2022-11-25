@@ -5,9 +5,19 @@
 - 📫 How to reach me: adanvmartinez@gmail.com
 
 ### Languages and Tools:
-<a href="https://aws.amazon.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/amazonwebservices-original-wordmark.svg" width="100" alt="AWS"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/bash.svg" width="100" alt="Docker"></a>
-<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/docker.svg" width="100" alt="Docker"></a> docker flask gcp git grafana heroku jenkins kafka kibana kubernetes linux mongodb mysql nginx postman python pytorch rabbitMQ redis selenium solr vagrant  
+<a href="https://aws.amazon.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/amazonwebservices-original-wordmark.svg" width="70" alt="AWS"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/bash.svg" width="70" alt="Bash"></a>
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/git.svg" width="70" alt="Git"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/jenkins.svg" width="70" alt="Jenkins"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/splunk.webp" width="70" alt="Splunk"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/kubernetes.svg" width="70" alt="Kubernetes"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/linux-original.svg" width="70" alt="Linux"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/mongodb-original-wordmark.svg" width="70" alt="MongoDB"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/mysql-original-wordmark.svg" width="70" alt="MySQL"></a> 
+<a href="https://www.nginx.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/nginx.svg" width="70" alt="NGINX"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/postman.svg" width="70" alt="Postman"></a> 
+<a href="https://docker.com/"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/python-original.svg" width="70" alt="Python"></a> 
+git jenkins splunk kubernetes linux mongodb mysql nginx postman python  
 
 ### Random Computer Joke
  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
