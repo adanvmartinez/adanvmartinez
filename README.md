@@ -1,7 +1,15 @@
 <h2 align="center"> Hi <img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/Hi.gif" width="30">, I’m Adan</h2>  
 
 ### Welcome to my profile  
-#### A passionate DevOps/FullStack engineer currently focusing on cloud services and monitoring.  
+#### A passionate DevOps/FullStack engineer currently focusing on cloud services and monitoring. 
+
+I'm a passionate software engineer who loves to automate processes. As a lover of technology, I love to learn new tools and finding solutions to complex problems and facilitate handling of business. Skilled at devops, containerization, and cloud. Always eager to learn.  
+
+### My Interests  
+- 👀 I’m interested in Computer Science  
+- 🌱 I’m currently working on learning machine learning techniques and neural network models  
+- 💞️ I’m looking to collaborate on full-stack software development and cloud architecture development  
+
 
 ### 🔥 My Stats:  
 ![](https://komarev.com/ghpvc/?username=adanvmartinez&label=PROFILE+VIEWS&color=brightgreen)  
@@ -12,15 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adanvmartinez&langs_count=10&theme=github-dark&hide=hcl)](https://github.com/anuraghazra/github-readme-stats)
 #### With MD and Script files:  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adanvmartinez&langs_count=10&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-
-
-
-
-### My Interests  
-- 👀 I’m interested in Computer Science  
-- 🌱 I’m currently working on learning machine learning techniques and neural network models  
-- 💞️ I’m looking to collaborate on full-stack software development and cloud architecture development  
 
 
 ### Random Computer Joke
