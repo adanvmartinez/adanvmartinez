@@ -4,7 +4,9 @@
 #### A passionate DevOps/FullStack engineer currently focusing on cloud services and monitoring.  
 
 ### 🔥 My Stats:  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adanvmartinez&theme=radical&hide_border=true&background=282828)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adanvmartinez&theme=radical&hide_border=true&background=282828)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adanvmartinez&layout=compact&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
 
 
 
