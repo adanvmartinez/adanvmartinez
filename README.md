@@ -1,8 +1,8 @@
-# Hi <img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/Hi.gif" width="30">, I’m Adan
+# <h2 align="center"> Hi <img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/Hi.gif" width="30">, I’m Adan</h2>
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently working on learning machine learning techniques and neural network models
 - 💞️ I’m looking to collaborate on full-stack software development and cloud architecture development
-- 📫 How to reach me: adanvmartinez@gmail.com
+
 
 ### Random Computer Joke
  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
@@ -28,7 +28,8 @@
 
  
  ### Connect with me:  
- <a href="https://www.linkedin.com/in/adanvmartinez"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/linked-in-alt.svg" width="70" alt="LinkedIn"></a> 
+ <a href="https://www.linkedin.com/in/adanvmartinez"><img src="https://github.com/adanvmartinez/Profile-Assets/blob/main/linked-in-alt.svg" width="70" alt="LinkedIn"></a>  
+ - 📫 adanvmartinez@gmail.com
 <!---
 adanvmartinez/adanvmartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
