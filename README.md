@@ -16,6 +16,11 @@ I'm a passionate software engineer who loves to automate processes. As a lover o
 * Focused  
 * Smart Worker  
 
+### My interests outside work:  
+- 🎮👾 video games
+- ⚽️ sports 
+- 👨‍👩‍👧‍👦 family 
+- 🧑‍🍳🥘 cooking
 
 ### 🔥 My Stats:  
 ![](https://komarev.com/ghpvc/?username=adanvmartinez&label=PROFILE+VIEWS&color=brightgreen)  
