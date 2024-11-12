@@ -14,7 +14,6 @@ I'm a passionate software engineer who loves to automate processes. As a lover o
 * Always Learning  
 * Team Player  
 * Focused  
-* Smart Worker  
 
 ### My interests outside work:  
 - 🎮👾 video games
